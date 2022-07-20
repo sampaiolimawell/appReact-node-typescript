@@ -1,6 +1,7 @@
 
 //importo a view do file SignIn
-import { SignIn } from './src/screens/SignIn';
+//aqui inicia importando a SignIn até criar a Home.tsx. Depois de criar a Home.tsx substitui tudo que tem SignIn por Home
+import { Home } from './src/screens/Home';
 
 //importo native base
 import { NativeBaseProvider, StatusBar } from 'native-base';
@@ -23,7 +24,7 @@ export default function App() {
       barStyle="light-content"
       backgroundColor="transparent"
       translucent/>
-      { fontsLoaded ? <SignIn/> : <Loading/>}
+      { fontsLoaded ? <Home/> : <Loading/>}
     </NativeBaseProvider>
   );
 }

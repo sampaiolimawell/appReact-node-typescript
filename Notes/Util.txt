@@ -3,3 +3,4 @@ Utilizar o Figma para layouts;
 Utilizar NativeBase.IO (Para o projeto e faz instalação)
 Importa Snipet pro native-base "nbc" R component
 Icones do phosphoricons.com
+PAREI NO 21:26 DA AULA
