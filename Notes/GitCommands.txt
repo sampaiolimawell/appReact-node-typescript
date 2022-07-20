@@ -1,0 +1,9 @@
+git init
+git status
+git add .
+git config --global user.email "sampaiolimawell@gmail.com"
+git config --global user.name "sampaiolimawell"
+git commit -m "meu primeiro commit"
+git remote add origin https://github.com/sampaiolimawell/appReact-node-typescript.git
+git branch -M 'main'
+git push -u origin 'main'
