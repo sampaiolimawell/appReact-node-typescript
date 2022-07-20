@@ -1,0 +1,5 @@
+Utilizar o expo no celular ou emulador, baixar no pc;
+Utilizar o Figma para layouts;
+Utilizar NativeBase.IO (Para o projeto e faz instalação)
+Importa Snipet pro native-base "nbc" R component
+Icones do phosphoricons.com
